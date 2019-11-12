@@ -31,6 +31,8 @@
     "react-if": "^3.1.3"
   },
   "devDependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
     "@lskjs/autobind": "^0.35.7",
     "@lskjs/css": "^0.34.145",
     "@lskjs/dev": "^0.34.145",
@@ -38,15 +40,16 @@
     "@lskjs/utils": "^0.35.6",
     "antd": "^3.16.2",
     "classnames": "^2.2.6",
-    "emotion": "^9.2.10",
+    "emotion": "^10.0.23",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.3",
     "mobx-react-devtools": "^6.1.1",
     "react": "^16.8.6",
-    "react-emotion": "^9.2.10",
     "react-icons2": "^2.5.0"
   },
   "peerDependencies": {
+    "@emotion/core": "*",
+    "@emotion/styled": "*",
     "@lskjs/autobind": "*",
     "@lskjs/css": "*",
     "@lskjs/dev": "*",
@@ -57,7 +60,6 @@
     "mobx": "*",
     "mobx-react": "*",
     "react": "*",
-    "react-emotion": "*",
     "react-icons2": "*"
   }
 }
