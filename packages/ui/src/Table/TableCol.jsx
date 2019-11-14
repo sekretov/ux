@@ -1,6 +1,7 @@
+/** @jsx jsx */
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
-import { css } from 'react-emotion';
+import { css, jsx } from '@emotion/core';
 import cx from 'classnames';
 import filterProps from '@lskjs/utils/filterProps';
 
