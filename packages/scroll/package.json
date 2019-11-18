@@ -35,7 +35,7 @@
     "@lskjs/dev": "^0.34.145",
     "@lskjs/theme": "^0.34.145",
     "@lskjs/utils": "^0.35.6",
-    "emotion-theming": "9.1.2",
+    "emotion-theming": "^10.0.19",
     "lodash": "4.17.11",
     "mobx": "5.9.4",
     "mobx-react": "5.4.3",
